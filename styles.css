@@ -11,6 +11,7 @@
 
 p {
   display: block;
+  border-style: solid;
   border-color: red;
   background: #fff8dc;
   width: 400px;
