@@ -12,8 +12,8 @@
 p {
   display: block;
   border-style: solid;
-  border-color: red;
-  background: #fff8dc;
+  border-color: #fff8dc;
+  background: #ddddda;
   width: 400px;
   margin: 50px auto;
   text-align: center;
